@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align:center;
+}
+header{
+    background-color:#36D986;
+}
+img{
+    height:200px;
+    width:200px;
+}
+a{
+    border:2px solid;
+    background-color:white;
+    color:black;
+    
+}
